@@ -1,7 +1,8 @@
 Excell-file
 Repository for the creation of the Excel file with the e-commerce exercise 
 
-I have created an Excel file as the e-commerce exercise for the higher education courses shop that includes interconnected sheets for financial analysis. The file contains three main worksheets with structured data and relationships between key business assumptions.
+I have created an Excel file as the e-commerce exercise for the higher education courses shop that includes interconnected sheets for financial analysis. 
+The file contains three main worksheets with structured data and relationships between key business assumptions.
 
 
 
@@ -16,7 +17,7 @@ Key Assumptions in the Model:
 2. Expenses
 
   Fixed monthly expenses are assumed (15,000 in January, 16,000 in February, 17,000 in March).
-  These are hardcoded but can be adjusted manually.
+  These are coded but can be adjusted manually.
 
 3. Product Mix (Sales Volumes)
 
