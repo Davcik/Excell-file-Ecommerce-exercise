@@ -52,7 +52,7 @@ Key Features of the Code & Excel File
 3. Scalable Structure
 
   You can add more courses to ProductMix and Pricing, extend months, or modify expenses.
-  The formulas will adapt if you extend ranges.
+  The formulas will adapt if you extend the ranges.
 
 4. Excel Output
 
